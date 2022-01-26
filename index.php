@@ -1,3 +1,3 @@
 <?php
 
-echo "FLASHVPS";
+echo "FLASHVPS Auto deploy";
